@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+
+    <style type="text/CSS">
+        body { margin: 5px 270px 5px 270px;}
+    </style>
+</head>
+
+<body>
+
+    <table style="border:1px solid black">
+        <tr>
+            <td style="border:1px solid black">
+                <center>
+                    <img src="C:\Users\admin\Desktop\week1-day4\cmr(1).png" width="330">
+                    <h2>
+                        I'm here for <i>YOU</i>
+                    </h2>
+                    <p>
+                        Focused on the greater Austin and Dallas/Fort Worth Metropolitan area, <b>Sontae Kim</b> is a licensed real estate agent in the state of Texas working to serve <b><i>You</i></b>.
+                    </p>
+                    <p>
+                        Whether you're buying or selling, let <b>Sontae Kim</b> help you with your journey.
+                    </p>
+                </center>
+                <img src="C:\Users\admin\Desktop\week1-day4\tritexasmap.png" width="310">
+            </td>
+            <td style="border:1px solid black">
+                <center>
+                    <h3>
+                        Is it a good time to buy or sell? <br> Well, it depends...
+                    </h3>
+                </center>
+                Austin and the Dallas/Fort Worth area continue to be some of the hottest housing markets in recent years. While interest rates are expected to rise and new development projected to set records, there is little sign of turning from a seller's market.
+                <center>
+                    <br>
+                    <img src="C:\Users\admin\Desktop\week1-day4\house.jfif" width="330">
+                </center>
+                <h4>
+                    Austin
+                </h4>
+                <ul>
+                    <li>Average middle tier home: $606,319</li>
+                    <ul>
+                        <li>1-year change: <b>40.6%</b></li>
+                    </ul>
+                    <li>Renter occupied: <b>48%</b></li>
+                    <li>Median rent for a 3-Bedroom: $2,300</li>
+                </ul>
+                <h4>
+                    Dallas
+                </h4>
+                <ul>
+                    <li>Average middle tier home: $287,282</li>
+                    <ul>
+                        <li>1-year change: <b>19.6%</b></li>
+                    </ul>
+                    <li>Renter occupied: <b>43%</b></li>
+                    <li>Median rent for a 3-Bedroom: $2,300</li>
+                </ul>
+                <h4>
+                    Fort Worth
+                </h4>
+                <ul>
+                    <li>Average middle tier home: $276,047</li>
+                    <ul>
+                        <li>1-year change: <b>4.73%</b></li>
+                    </ul>
+                    <li>Renter occupied: <b>32%</b></li>
+                    <li>Median rent for a 3-Bedroom: $1,945</li>
+                </ul>
+                <i>From RENTCafe and Zillow as of December 2021</i>
+            </td>
+            <td style="border:1px solid black">
+                <center>
+                    <h2>
+                        <i>Start your Journey Today!</i>
+                    </h2>
+                </center>
+                <p>
+                    <center>
+                        <form action="" method="post">
+                            <p>
+                                <label for="fullName"><b>What's your name?</b></label><br>
+                                <input type="text" placeholder="First and Last Name" name="fullName"><br>
+                            </p>
+                            <p>
+                                <label for="serviceType"><b>Are you...</b><label><br>
+                                <input type="text" placeholder="Buying or Selling?" name="serviceType"><br>
+                            </p>
+                            <p>
+                                <label for="phoneNumber"><b>Best number to reach you?</b></label><br>
+                                <input type=" text " placeholder="Enter Phone Number" name="phoneNumber"><br>
+                            </p>
+                            <p>
+                                <label for="phoneNumber"><b>Best Email to reach you?</b></label><br>
+                                <input type=" text " placeholder="Enter Email" name="phoneNumber">
+                            </p>
+                            <p>
+                                <!-- <input type="submit"> -->
+                                <button type="button">Send!</button>
+                            </p>
+                        </form>
+                        <br>
+                        <img src="C:\Users\admin\Desktop\week1-day4\happdad.jpeg" width="335">
+                        <br>
+                        <br>
+                        <img src="C:\Users\admin\Desktop\week1-day4\happyFam.jfif" width="335">
+                    </center>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
